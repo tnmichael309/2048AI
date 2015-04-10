@@ -7,6 +7,7 @@ Some ugly codes of TD-Learning and Expectimax Search for game 2048.
 We use TD-Lambda and several features to train 2048 by self-playing.
 
 Those features includes:
+
 1. Number of large tiles
 
 2. Number of pairs of merge-able tiles
