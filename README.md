@@ -1,6 +1,8 @@
 # 2048AI
 
-Some ugly codes of TD-Learning and Expectimax Search for game 2048. (Developed by Kun-Hao Yeh from CGI-Lab).
+Some ugly codes of TD-Learning and Expectimax Search for game 2048. 
+
+(Developed by K.H Yeh and I.C Wu from CGI-Lab @NCTU).
 
 We use TD-Lambda and several features to train 2048 by self-playing.
 
@@ -14,7 +16,6 @@ Those features includes:
 7. Rectangular six-tuples
 
 Performances: (1000 games)
-
 <table>
 
 <tr align=center> 
