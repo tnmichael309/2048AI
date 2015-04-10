@@ -21,6 +21,8 @@ Those features includes:
 
 7. Rectangular six-tuples
 
+Links for trained features weights for this program:
+
 Performances: (1000 games)
 <table>
 
