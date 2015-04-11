@@ -23,7 +23,7 @@ Those features includes:
 7. Rectangular six-tuples
 
 The download link for the trained features weights for this program: 
-<a href="http://140.113.210.143/~cgilab/download/2048 features trained.rar"></a>
+<h2>http://140.113.210.143/~cgilab/download/2048 features trained.rar</h2>
 
 Performances: (1000 games)
 <table>
