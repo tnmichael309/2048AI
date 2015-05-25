@@ -29,6 +29,10 @@ The download link for the trained features weights for this program:
 2. http://140.113.210.143/~cgilab/download/2048%20features%20trained.rar
 
 Performances: (1000 games)
+
+The AI is on the website: http://2048.aigames.nctu.edu.tw/
+To see the record of reaching 65536: http://2048.aigames.nctu.edu.tw/replay.php
+
 <table>
 
 <tr align=center> 
