@@ -1,4 +1,4 @@
-# 2048AI
+# 2048 AI
 
 Some ugly codes of TD-Learning and Expectimax Search for game 2048. 
 
@@ -79,3 +79,5 @@ To see the record of reaching 65536: http://2048.aigames.nctu.edu.tw/replay.php
 </tr>
               
 </table>
+
+The program's result along with other experiments are in the IEEE Journal Paper: http://ieeexplore.ieee.org/document/7518633/
